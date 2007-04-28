@@ -5,7 +5,7 @@
 
 Summary:	%{_pearname} - determines the Web browser
 Name:		php-pear-%{_pearname}
-Version:	2.2.0
+Version:	2.3.0
 Release:	%mkrel 1
 License:	PHP License
 Group:		Development/PHP

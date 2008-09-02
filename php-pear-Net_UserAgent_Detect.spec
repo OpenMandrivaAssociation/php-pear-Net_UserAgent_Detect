@@ -5,8 +5,8 @@
 
 Summary:	%{_pearname} - determines the Web browser
 Name:		php-pear-%{_pearname}
-Version:	2.3.0
-Release:	%mkrel 2
+Version:	2.4.0
+Release:	%mkrel 1
 License:	PHP License
 Group:		Development/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tar.bz2

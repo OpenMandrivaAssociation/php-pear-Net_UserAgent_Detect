@@ -3,8 +3,8 @@
 %define		upstream_name	%{_class}_%{_subclass}_Detect
 
 Name:		php-pear-%{upstream_name}
-Version:	2.5.1
-Release:	%mkrel 2
+Version:	2.5.2
+Release:	%mkrel 1
 Summary:	Determines the Web browser
 License:	PHP License
 Group:		Development/PHP

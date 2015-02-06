@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	2.5.2
-Release:	5
+Release:	6
 Summary:	Determines the Web browser
 License:	PHP License
 Group:		Development/PHP

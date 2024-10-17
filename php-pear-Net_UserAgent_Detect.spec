@@ -8,7 +8,7 @@ Release:	6
 Summary:	Determines the Web browser
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/Net_UserAgent_Detect/
+URL:		https://pear.php.net/package/Net_UserAgent_Detect/
 Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tar.bz2
 Requires(post): php-pear
 Requires(preun): php-pear
